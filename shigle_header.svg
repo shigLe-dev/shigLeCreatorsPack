@@ -9,6 +9,9 @@
    id="svg843"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="shigle_header.svg"
+   inkscape:export-filename="C:\Users\KurisuJuha\Documents\GitHub\shigLeCreatorsPack\shigle_header.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.16013082"
-     inkscape:cx="2688.4268"
-     inkscape:cy="1092.8564"
+     inkscape:zoom="0.07358821"
+     inkscape:cx="529.9762"
+     inkscape:cy="1848.1221"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -131,7 +134,7 @@
     <g
        id="g21179"
        clip-path="url(#clipPath21181)"
-       transform="translate(83.035804,4.9568846)">
+       transform="translate(83.035804,24.006894)">
       <g
          inkscape:label="Clip"
          id="g21177">
@@ -155,12 +158,12 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,93.067006,6.0665114)"
+       transform="matrix(0.26458333,0,0,0.26458333,93.067006,25.116521)"
        id="text4608"
        style="font-size:266.667px;line-height:1.25;font-family:Gidole;-inkscape-font-specification:Gidole;letter-spacing:50px;white-space:pre;shape-inside:url(#rect4610)"><tspan
          x="2154.9141"
          y="946.98896"
-         id="tspan138786">shigLe</tspan></text>
+         id="tspan150359">shigLe</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,2.4784423,7.0222531)"
@@ -170,15 +173,15 @@
        y="0"><tspan
          x="4938.2754"
          y="1528.8096"
-         id="tspan138792"><tspan
+         id="tspan150365"><tspan
            style="letter-spacing:15.83px"
-           id="tspan138788">shigle.net</tspan><tspan
+           id="tspan150361">shigle.net</tspan><tspan
            dx="15.830013"
-           id="tspan138790">
+           id="tspan150363">
 </tspan></tspan><tspan
          x="4601.2695"
          y="1689.2471"
-         id="tspan138794">
+         id="tspan150367">
 </tspan></text>
     <text
        xml:space="preserve"
