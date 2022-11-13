@@ -6,7 +6,7 @@
    viewBox="0 0 640 640"
    xml:space="preserve"
    id="svg32"
-   sodipodi:docname="shigle_log.svg"
+   sodipodi:docname="shigle_logo.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,15 +21,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="0.16641739"
-   inkscape:cx="-402.60216"
-   inkscape:cy="120.17975"
+   inkscape:zoom="0.66566956"
+   inkscape:cx="246.36848"
+   inkscape:cy="309.46285"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg32" />
+   inkscape:current-layer="layer1" />
 <desc
    id="desc2">Created with Fabric.js 4.6.0</desc>
 <defs
@@ -88,12 +88,13 @@
 <g
    inkscape:groupmode="layer"
    id="layer1"
-   inkscape:label="Back"><circle
-     style="fill:#fffff8;fill-opacity:1"
-     id="path38214"
-     cx="320"
-     cy="319.22745"
-     r="320" /></g>
+   inkscape:label="Back"><rect
+     style="fill:#fffff8"
+     id="rect1063"
+     width="640"
+     height="640"
+     x="0"
+     y="0" /></g>
 <path
    style="opacity:1;fill:url(#linearGradient6361);fill-opacity:1;fill-rule:nonzero;stroke:#82cb00;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
    vector-effect="non-scaling-stroke"
